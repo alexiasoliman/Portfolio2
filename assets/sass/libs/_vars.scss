@@ -1,15 +1,15 @@
-// Misc.
+
 	$misc: (
 		z-index-base:		10000
 	);
 
-// Duration.
+
 	$duration: (
 		nav:				0.5s,
 		transition:			0.2s
 	);
 
-// Size.
+
 	$size: (
 		border-radius:		0.375em,
 		element-height:		2.75em,
@@ -19,7 +19,7 @@
 		gutter:				3em
 	);
 
-// Font.
+
 	$font: (
 		family:				('Open Sans', sans-serif),
 		family-heading:		('Roboto Slab', serif),
@@ -31,7 +31,7 @@
 		kerning-heading:	0.075em
 	);
 
-// Palette.
+
 	$palette: (
 		bg:					#ffffff,
 		bg-alt:				#f5f6f7,

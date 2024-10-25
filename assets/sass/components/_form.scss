@@ -124,7 +124,7 @@
 				width: (_size(element-height) * 0.75);
 			}
 		}
-
+	
 		&:checked + label {
 			&:before {
 				background: _palette(fg-bold);
